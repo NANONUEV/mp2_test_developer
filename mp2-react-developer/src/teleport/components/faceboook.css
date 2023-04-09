@@ -1,0 +1,12 @@
+.faceboook-container {
+  display: flex;
+  position: relative;
+}
+.faceboook-lottie-node {
+  width: 300px;
+  height: 300px;
+}
+.faceboook-root-class-name {
+  width: 50%;
+  height: auto;
+}

@@ -1,0 +1,11 @@
+.instagram-container {
+  display: flex;
+  position: relative;
+}
+.instagram-lottie-node {
+  width: 300px;
+  height: 300px;
+}
+.instagram-root-class-name {
+  width: 50%;
+}

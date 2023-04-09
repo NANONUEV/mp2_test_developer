@@ -1,0 +1,287 @@
+.pa-efooter-container {
+  width: 100%;
+  height: 400px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.pa-efooter-container01 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+}
+.pa-efooter-container02 {
+  flex: 0 0 auto;
+  width: 480px;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.pa-efooter-div {
+  width: 400px;
+  height: 301px;
+}
+.pa-efooter-container03 {
+  flex: 0 0 auto;
+  width: 50%;
+  height: 100%;
+  display: flex;
+  position: relative;
+  align-items: flex-end;
+  justify-content: center;
+}
+.pa-efooter-text {
+  color: #2F3B69;
+  width: 100%;
+  height: auto;
+  align-self: flex-end;
+  text-align: center;
+  padding-top: var(--dl-space-space-halfunit);
+  border-color: #2F3B69;
+  border-width: 1px;
+  padding-bottom: var(--dl-space-space-halfunit);
+  border-top-width: 3px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+}
+.pa-efooter-container04 {
+  top: 0px;
+  flex: 0 0 auto;
+  left: 0px;
+  right: 0px;
+  width: 100%;
+  height: 180px;
+  display: flex;
+  position: absolute;
+  align-self: flex-start;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+}
+.pa-efooter-container05 {
+  flex: 0 0 auto;
+  width: 180px;
+  height: 180px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.pa-efooter-container06 {
+  top: 0px;
+  flex: 0 0 auto;
+  left: 0px;
+  width: 390px;
+  height: 180px;
+  display: flex;
+  position: absolute;
+  align-self: stretch;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.pa-efooter-container07 {
+  flex: 0 0 auto;
+  right: 0px;
+  width: 50%;
+  bottom: 0px;
+  height: 100%;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+}
+.pa-efooter-link {
+  display: contents;
+}
+.pa-efooter-component1 {
+  text-decoration: none;
+}
+.pa-efooter-container08 {
+  flex: 0 0 auto;
+  width: 50%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.pa-efooter-link1 {
+  display: contents;
+}
+.pa-efooter-component2 {
+  text-decoration: none;
+}
+.pa-efooter-container09 {
+  top: 0px;
+  flex: 0 0 auto;
+  right: 0px;
+  width: 390px;
+  height: 180px;
+  display: flex;
+  position: absolute;
+  align-self: stretch;
+  align-items: flex-start;
+  justify-content: center;
+}
+.pa-efooter-container10 {
+  flex: 0 0 auto;
+  right: 0px;
+  width: 50%;
+  bottom: 0px;
+  height: 100%;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+}
+.pa-efooter-link2 {
+  display: contents;
+}
+.pa-efooter-component3 {
+  text-decoration: none;
+}
+.pa-efooter-container11 {
+  top: 0px;
+  flex: 0 0 auto;
+  left: 0px;
+  width: 50%;
+  height: 100%;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+}
+.pa-efooter-link3 {
+  display: contents;
+}
+.pa-efooter-component4 {
+  text-decoration: none;
+}
+.pa-efooter-container12 {
+  top: 180px;
+  flex: 0 0 auto;
+  left: 0px;
+  right: 0px;
+  width: 100%;
+  height: 180px;
+  display: flex;
+  position: absolute;
+  align-self: flex-start;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+}
+.pa-efooter-container13 {
+  flex: 0 0 auto;
+  width: 180px;
+  height: 180px;
+  display: flex;
+  transition: 0.3s;
+  align-items: flex-start;
+  background-size: cover;
+  background-image: url("../../../public/playground_assets/2.png");
+  background-position: center;
+}
+.pa-efooter-container13:hover {
+  background-size: cover;
+  background-image: 9c462383-0f32-47df-92bd-1e5ffd4e2035;
+}
+.pa-efooter-container14 {
+  top: 0px;
+  flex: 0 0 auto;
+  left: 0px;
+  width: 390px;
+  height: 180px;
+  display: flex;
+  position: absolute;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.pa-efooter-text1 {
+  color: #2f3b69;
+  width: 100%;
+  align-self: center;
+  text-align: center;
+  padding-top: var(--dl-space-space-halfunit);
+  border-color: #2f3b69;
+  border-width: 3px;
+  padding-bottom: var(--dl-space-space-halfunit);
+  border-left-width: 0px;
+  border-right-width: 0px;
+}
+.pa-efooter-container15 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+.pa-efooter-text3 {
+  align-self: flex-end;
+}
+.pa-efooter-container16 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+.pa-efooter-text5 {
+  align-self: flex-end;
+}
+.pa-efooter-container17 {
+  top: 0px;
+  flex: 0 0 auto;
+  right: 0px;
+  width: 390px;
+  height: 180px;
+  display: flex;
+  position: absolute;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.pa-efooter-text6 {
+  color: #2f3b69;
+  width: 100%;
+  text-align: center;
+  padding-top: var(--dl-space-space-halfunit);
+  border-color: #2f3b69;
+  border-width: 3px;
+  padding-bottom: var(--dl-space-space-halfunit);
+  border-left-width: 0px;
+  border-right-width: 0px;
+}
+.pa-efooter-text7 {
+  padding-top: 3px;
+}
+.pa-efooter-container18 {
+  flex: 0 0 auto;
+  width: 480px;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.pa-efooter-container19 {
+  flex: 0 0 auto;
+  width: 376px;
+  height: 362px;
+  display: flex;
+  transition: 0.3s;
+  align-items: flex-start;
+  background-size: cover;
+  background-image: url('https://www.greatplacetowork.com.ph/wp-content/uploads/2022/01/2022_Philippines_Best-Workplaces.png');
+  background-position: center;
+}
+.pa-efooter-container19:hover {
+  background-size: cover;
+  background-image: url("/playground_assets/2.png");
+}

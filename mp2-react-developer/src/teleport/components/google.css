@@ -1,0 +1,11 @@
+.google-container {
+  display: flex;
+  position: relative;
+}
+.google-lottie-node {
+  width: 300px;
+  height: 300px;
+}
+.google-root-class-name {
+  width: 50%;
+}
